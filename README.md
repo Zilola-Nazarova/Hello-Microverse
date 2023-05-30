@@ -71,7 +71,7 @@ To get a local copy up and running, follow these steps.
 Clone this repository to your desired folder:
 
 > cd my-folder
-> git clone git@github.com:myaccount/my-project.git
+> git clone git@github.com:Zilola-Nazarova/hello-microverse.git
 
 ### Prerequisites
 
